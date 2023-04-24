@@ -4,6 +4,12 @@ import java.util.Iterator;
 import java.util.SortedSet;
 import java.util.TreeSet;
 
+/*
+@author Pablo Arturo Pérez Mata
+@email pablo.arturo.perez@gmail.com
+@description Practica de evaluación de conjuntos y suma entre ellos A+B
+*/
+
 public class Main {
 
     public static void main(String[] args) {
